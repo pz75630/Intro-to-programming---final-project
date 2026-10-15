@@ -18,6 +18,12 @@ Download the dataset form Kaggle.com and save it to the same directory as the pr
   - A scatter plot displaying academic performance against total daily screen time
   - An error bar chart comparing the average grades and standard deviation of the two groups
 
+  ## OUTPUT
+  The code generates following files:
+  - 'screen_time_distribution_histogram.png'
+  - 'screen_time_grades_scatterplot.png'
+  - 'academic_performance_sd'
+
 ## REQUIRED LIBRARIES
 You need to have following libraries downloaded to run this code :
 

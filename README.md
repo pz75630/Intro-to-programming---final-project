@@ -5,7 +5,7 @@ The aim of this project is the analysis of the relationship between total daily 
 The dataset can be found on Kaggle.com (https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance/data). To reproduce the results it must be cleaned by removing all academic socres outliers above a 100.
 
 ## HOW TO RUN THE CODE
-Download the data set form Kaggle and save it to the same directory as the project. Make sure the name of the cvs file matches the one in the code - in my case it's "Gaming_Academic_Performance_updated.csv"
+Download the dataset form Kaggle.com and save it to the same directory as the project. Make sure the name of the csv file matches the one in the code - in my case it's "Gaming_Academic_Performance_updated.csv"
 
 ## WHAT THE CODE DOES
 - Splits the students into "low" and "high" screen time groups based on median device usage

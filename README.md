@@ -29,5 +29,5 @@ You need to have following libraries downloaded to run this code :
 You can download them by putting the following command in the terminal :
 
 ```bash
-pip install pandas matplotlib scipy numpy
+pip install pandas matplotlib scipy 
 

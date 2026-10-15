@@ -22,7 +22,7 @@ Download the dataset form Kaggle.com and save it to the same directory as the pr
   The code generates following files:
   - 'screen_time_distribution_histogram.png'
   - 'screen_time_grades_scatterplot.png'
-  - 'academic_performance_sd'
+  - 'academic_performance_sd.png'
 
 ## REQUIRED LIBRARIES
 You need to have following libraries downloaded to run this code :

@@ -21,13 +21,13 @@ Download the dataset form Kaggle.com and save it to the same directory as the pr
 ## REQUIRED LIBRARIES
 You need to have following libraries downloaded to run this code :
 
--pandas 
--matplotlib 
--scipy 
--statistics
--numpy
+- pandas 
+- matplotlib 
+- scipy 
+
 
 You can download them by putting the following command in the terminal :
 
+```bash
 pip install pandas matplotlib scipy numpy
 

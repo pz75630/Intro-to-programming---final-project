@@ -1,4 +1,4 @@
-# The Impact of Daily Screen time on Academic Performance - Data Analysis with Python
+# The Impact of Daily Screen Time on Academic Performance - Data Analysis with Python
 The aim of this project is the analysis of the relationship between total daily device usage (screen time) of students and their academic performance. Statistical analysis and visualisation techniques were used to answer the research question  **Is total daily screen time associated with academic performance of students?**
 
 ## THE DATASET
